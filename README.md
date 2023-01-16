@@ -1,6 +1,8 @@
-# Simple Adventure Game
+# Adventure Game
 
-This Simple Adventure Game involves skills and concepts I’d learned over my first high school semester, including Hash Tables, Multithreading, File Importing and Exporting, Java Swing Graphics, and more. It has rudimentary mechanics and is easy to understand and grasp. 
+This Adventure Game involves skills and concepts I’d learned over my first high school semester, including Hash Tables, Multithreading, File Importing and Exporting, Java Swing Graphics, and more. It has rudimentary mechanics and is easy to understand and grasp.
+
+In this game, the player explores an island, and tries to increase their score (through collecting coins) before the game ends. The game has easy to understand mechanics, as well as in-built instructions on how to move around. The player can additionally interact with two NPCs (Non-Player Characters) placed around the island, who provide rudimentary quests for the player to complete. For example, one of the NPCs has the player collect a key.
 
 ## Example Code Snippet
 
